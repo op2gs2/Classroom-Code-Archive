@@ -1,0 +1,7 @@
+﻿  overflow.c
+c:\users\hallym\desktop\20175111week02\week2\overflow\overflow.c(10): warning C4305: '초기화 중': 'int'에서 'unsigned char'(으)로 잘립니다.
+c:\users\hallym\desktop\20175111week02\week2\overflow\overflow.c(12): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hallym\desktop\20175111week02\week2\overflow\overflow.c(13): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다.
+c:\users\hallym\desktop\20175111week02\week2\overflow\overflow.c(13): warning C4756: 상수 산술 연산에서 오버플로가 발생했습니다.
+  overflow.vcxproj -> C:\Users\Hallym\Desktop\20175111week02\week2\Debug\overflow.exe
+  overflow.vcxproj -> C:\Users\Hallym\Desktop\20175111week02\week2\Debug\overflow.pdb (Partial PDB)

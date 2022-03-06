@@ -1,0 +1,4 @@
+﻿  double_ptr.cpp
+c:\users\hallym\desktop\20175111_week11\1mul\6double_ptr\double_ptr.cpp(29): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\hallym\desktop\20175111_week11\1mul\6double_ptr\double_ptr.cpp(30): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  6double_ptr.vcxproj -> C:\Users\Hallym\Desktop\20175111_week11\1mul\Debug\6double_ptr.exe

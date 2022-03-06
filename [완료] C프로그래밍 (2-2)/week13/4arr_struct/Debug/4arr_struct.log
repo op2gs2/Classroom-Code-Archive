@@ -1,0 +1,3 @@
+﻿  4arr_struct.c
+c:\users\hallym\desktop\20175111_week13\week13\4arr_struct\4arr_struct.c(25): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  4arr_struct.vcxproj -> C:\Users\Hallym\Desktop\20175111_week13\week13\Debug\4arr_struct.exe

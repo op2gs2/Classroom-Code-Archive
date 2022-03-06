@@ -1,0 +1,4 @@
+﻿  find_max.c
+c:\users\hallym\desktop\20175111_week11\1mul\5find_max\find_max.c(15): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+c:\users\hallym\desktop\20175111_week11\1mul\5find_max\find_max.c(15): warning C4024: 'find_max': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  5find_max.vcxproj -> C:\Users\Hallym\Desktop\20175111_week11\1mul\Debug\5find_max.exe

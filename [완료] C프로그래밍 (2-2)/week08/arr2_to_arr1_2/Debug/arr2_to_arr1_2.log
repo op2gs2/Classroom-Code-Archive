@@ -1,0 +1,4 @@
+﻿  arr2_to_arr1_2.c
+c:\users\hallym\desktop\20175111week08\week08\arr2_to_arr1_2\arr2_to_arr1_2.c(17): warning C4101: 'arr1' :참조되지 않은 지역 변수입니다.
+c:\users\hallym\desktop\20175111week08\week08\arr2_to_arr1_2\arr2_to_arr1_2.c(18): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  arr2_to_arr1_2.vcxproj -> C:\Users\Hallym\Desktop\20175111week08\week08\Debug\arr2_to_arr1_2.exe

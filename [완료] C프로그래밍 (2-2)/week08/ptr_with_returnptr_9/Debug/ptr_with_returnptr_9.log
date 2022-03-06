@@ -1,0 +1,3 @@
+﻿  ptr_with_returnptr_9.c
+c:\users\hallym\desktop\20175111week08\week08\ptr_with_returnptr_9\ptr_with_returnptr_9.c(25): warning C4172: 지역 변수 또는 임시: rp의 주소를 반환하고 있습니다.
+  ptr_with_returnptr_9.vcxproj -> C:\Users\Hallym\Desktop\20175111week08\week08\Debug\ptr_with_returnptr_9.exe

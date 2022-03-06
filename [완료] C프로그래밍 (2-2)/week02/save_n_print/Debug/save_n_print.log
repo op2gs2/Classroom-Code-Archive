@@ -1,0 +1,4 @@
+﻿  save_n_print.c
+c:\users\hallym\desktop\20175111week02\week2\save_n_print\save_n_print.c(18): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  save_n_print.vcxproj -> C:\Users\Hallym\Desktop\20175111week02\week2\Debug\save_n_print.exe
+  save_n_print.vcxproj -> C:\Users\Hallym\Desktop\20175111week02\week2\Debug\save_n_print.pdb (Partial PDB)
