@@ -1,0 +1,18 @@
+<<1번 문제>>
+1. flex 파일(20175111-04-1.l)에서 토큰을 찾으면, 특정 문자열을 반환하는 문장을 추가
+코드) "%" { return REM; }
+2. bison 파일(20175111-04-1.y)에서 나머지 연산을 처리하는 문법을 추가
+코드)  factor REM term { $$ = $1 % $3 }
+
+<<2번 문제>>
+1. flex 파일(20175111-04-2.l)에서 토큰을 찾으면, 특정 문자열을 반환하는 문장을 추가
+코드) "^" { return IND; }
+
+2. bison 파일(20175111-04-2.y)에서 지수 연산을 처리하는 문법을 추가
+1) math.h를 정의부분안에 include한다.
+2) 문법 부분에 지수 연산을 처리하는 문법을 추가
+코드)  factor IND term { $$ = pow($1, $3); }
+
+3. gcc 컴파일 시, -lm 옵션을 추가한다. (수학라이브러리를 연결하기 위함)
+(출처: https://stackoverflow.com/questions/8671366/undefined-reference-to-pow-and-floor)
+-> gcc lex.yy.c 20175111-04-2.tab.c -lfl -lm -o 20175111-04-2
